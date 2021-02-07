@@ -1,9 +1,12 @@
 ### Всем привет, я Андрей, начинающий front-end разработчик 👋
 
+##Мой стек
+
+- HTML, CSS, JS, Git, React, Node JS, Express
 <!--
 **AV365/AV365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##Мой стек
+
 
 - Интересуют проекты, связанные с улучшением бизнес-про
 - 🌱 I’m currently learning ...
